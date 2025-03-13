@@ -1,0 +1,863 @@
+{
+    "flag": "🇧🇪",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/52411"
+    },
+    "population": 11555997,
+    "gini": {
+      "2018": 27.2
+    },
+    "fifa": "BEL",
+    "car": {
+      "signs": [
+        "B"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/be.png",
+      "svg": "https://flagcdn.com/be.svg",
+      "alt": "The flag of Belgium is composed of three equal vertical bands of black, yellow and red."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/be.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/be.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [50.83, 4.33]
+    },
+    "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+      }
+    }
+
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel",
+      "nativeName": {
+        "ara": {
+          "official": "دولة إسرائيل",
+          "common": "إسرائيل"
+        },
+        "heb": {
+          "official": "מדינת ישראל",
+          "common": "ישראל"
+        }
+      }
+    },
+    "tld": [
+      ".il"
+    ],
+    "cca2": "IL",
+    "ccn3": "376",
+    "cca3": "ISR",
+    "cioc": "ISR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    },
+"idd": {
+  "root": "+972",
+  "suffixes": [
+    "72"
+  ]
+}
+
+{
+    "capital": [
+      "Jerusalem"
+    ],
+  
+    "altSpellings": [
+      "IL",
+      "State of Israel",
+      "Medīnat Yisrā'el"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    },
+    "translations": {
+      "ara": {
+        "official": "دولة إسرائيل",
+        "common": "إسرائيل"
+      },
+      "bre": {
+        "official": "Stad Israel",
+        "common": "Israel"
+      },
+      "ces": {
+        "official": "Stát Izrael",
+        "common": "Izrael"
+      },
+      "cym": {
+        "official": "State of Israel",
+        "common": "Israel"
+      },
+      "deu": {
+        "official": "Staat Israel",
+        "common": "Israel"
+      },
+      "est": {
+        "official": "Iisraeli Riik",
+        "common": "Iisrael"
+      },
+      "fin": {
+        "official": "Israelin valtio",
+        "common": "Israel"
+      },
+      "fra": {
+        "official": "État d'Israël",
+        "common": "Israël"
+      },
+      "hrv": {
+        "official": "Država Izrael",
+        "common": "Izrael"
+      },
+      "hun": {
+        "official": "Izrael",
+        "common": "Izrael"
+      },
+      "ita": {
+        "official": "Stato di Israele",
+        "common": "Israele"
+      },
+      "jpn": {
+        "official": "イスラエル国",
+        "common": "イスラエル"
+      },
+      "kor": {
+        "official": "이스라엘국",
+        "common": "이스라엘"
+      },
+      "nld": {
+        "official": "Staat Israël",
+        "common": "Israël"
+      },
+      "per": {
+        "official": "فلسطين اشغالی",
+        "common": "فلسطين اشغالی"
+      },
+      "pol": {
+        "official": "Państwo Izrael",
+        "common": "Izrael"
+      },
+      "por": {
+        "official": "Estado de Israel",
+        "common": "Israel"
+      },
+      "rus": {
+        "official": "Государство Израиль",
+        "common": "Израиль"
+      },
+      "slk": {
+        "official": "Izraelský štát",
+        "common": "Izrael"
+      },
+      "spa": {
+        "official": "Estado de Israel",
+        "common": "Israel"
+      },
+      "srp": {
+        "official": "Држава Израел",
+        "common": "Израел"
+      },
+      "swe": {
+        "official": "Staten Israel",
+        "common": "Israel"
+      },
+      "tur": {
+        "official": "İsrail Devleti",
+        "common": "İsrail"
+      },
+      "urd": {
+        "official": "ریاستِ اسرائیل",
+        "common": "اسرائیل"
+      },
+      "zho": {
+        "official": "以色列国",
+        "common": "以色列"
+      }
+    },
+    "latlng": [31.47, 35.13],
+    "landlocked": false,
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "PSE",
+      "SYR"
+    ],
+    "area": 20770,
+    "demonyms": {
+      "eng": {
+        "f": "Israeli",
+        "m": "Israeli"
+      },
+      "fra": {
+        "f": "Israélienne",
+        "m": "Israélien"
+      }
+    },
+    "flag": "🇮🇱",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
+    },
+    "population": 9216900,
+    "gini": {
+      "2016": 39
+    },
+    "fifa": "ISR",
+    "car": {
+      "signs": [
+        "IL"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/il.png",
+      "svg": "https://flagcdn.com/il.svg",
+      "alt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/il.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/il.svg"
+    },
+    "startOfWeek": "sunday",
+    "capitalInfo": {
+      "latlng": [31.77, 35.23]
+    },
+    "postalCode": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    }
+  },
+  {
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand",
+      "nativeName": {
+        "eng": {
+          "official": "New Zealand",
+          "common": "New Zealand"
+        },
+        "mri": {
+          "official": "Aotearoa",
+          "common": "Aotearoa"
+        },
+        "nzs": {
+          "official": "New Zealand",
+          "common": "New Zealand"
+        }
+      }
+    },
+    "tld": [
+      ".nz"
+    ],
+    "cca2": "NZ",
+    "ccn3": "554",
+    "cca3": "NZL",
+    "cioc": "NZL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+6",
+      "suffixes": [
+        "4"
+      ]
+    },
+    "capital": [
+      "Wellington"
+    ],
+    "altSpellings": [
+      "NZ",
+      "Aotearoa"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "translations": {
+      "ara": {
+        "official": "نيوزيلندا",
+        "common": "نيوزيلندا"
+      },
+      "bre": {
+        "official": "Zeland-Nevez",
+        "common": "Zeland-Nevez"
+      },
+      "ces": {
+        "official": "Nový Zéland",
+        "common": "Nový Zéland"
+      },
+      "cym": {
+        "official": "New Zealand",
+        "common": "New Zealand"
+      },
+      "deu": {
+        "official": "Neuseeland",
+        "common": "Neuseeland"
+      },
+      "est": {
+        "official": "Uus-Meremaa",
+        "common": "Uus-Meremaa"
+      },
+      "fin": {
+        "official": "Uusi-Seelanti",
+        "common": "Uusi-Seelanti"
+      },
+      "fra": {
+        "official": "Nouvelle-Zélande",
+        "common": "Nouvelle-Zélande"
+      },
+      "hrv": {
+        "official": "Novi Zeland",
+        "common": "Novi Zeland"
+      },
+      "hun": {
+        "official": "Új-Zéland",
+        "common": "Új-Zéland"
+      },
+      "ita": {
+        "official": "Nuova Zelanda",
+        "common": "Nuova Zelanda"
+      },
+      "jpn": {
+        "official": "ニュージーランド",
+        "common": "ニュージーランド"
+      },
+      "kor": {
+        "official": "뉴질랜드",
+        "common": "뉴질랜드"
+      },
+      "nld": {
+        "official": "Nieuw Zeeland",
+        "common": "Nieuw-Zeeland"
+      },
+      "per": {
+        "official": "نیوزیلند",
+        "common": "نیوزیلند"
+      },
+      "pol": {
+        "official": "Nowa Zelandia",
+        "common": "Nowa Zelandia"
+      },
+      "por": {
+        "official": "nova Zelândia",
+        "common": "Nova Zelândia"
+      },
+      "rus": {
+        "official": "Новая Зеландия",
+        "common": "Новая Зеландия"
+      },
+      "slk": {
+        "official": "Nový Zéland",
+        "common": "Nový Zéland"
+      },
+      "spa": {
+        "official": "nueva Zelanda",
+        "common": "Nueva Zelanda"
+      },
+      "srp": {
+        "official": "Нови Зеланд",
+        "common": "Нови Зеланд"
+      },
+      "swe": {
+        "official": "Nya Zeeland",
+        "common": "Nya Zeeland"
+      },
+      "tur": {
+        "official": "Yeni Zelanda",
+        "common": "Yeni Zelanda"
+      },
+      "urd": {
+        "official": "نیوزی لینڈ",
+        "common": "نیوزی لینڈ"
+      },
+      "zho": {
+        "official": "新西兰",
+        "common": "新西兰"
+      }
+    },
+    "latlng": [-41, 174],
+    "landlocked": false,
+    "area": 270467,
+    "demonyms": {
+      "eng": {
+        "f": "New Zealander",
+        "m": "New Zealander"
+      },
+      "fra": {
+        "f": "Neo-Zélandaise",
+        "m": "Neo-Zélandais"
+      }
+    },
+    "flag": "🇳🇿",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
+    },
+    "population": 5084300,
+    "fifa": "NZL",
+    "car": {
+      "signs": [
+        "NZ"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/nz.png",
+      "svg": "https://flagcdn.com/nz.svg",
+      "alt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/nz.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [-41.3, 174.78]
+    },
+    "postalCode": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua",
+      "nativeName": {
+        "spa": {
+          "official": "República de Nicaragua",
+          "common": "Nicaragua"
+        }
+      }
+    },
+    "tld": [
+      ".ni"
+    ],
+    "cca2": "NI",
+    "ccn3": "558",
+    "cca3": "NIC",
+    "cioc": "NCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+      "NIO": {
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    },
+    "idd": {
+      "root": "+5",
+      "suffixes": [
+        "05"
+      ]
+    },
+    "capital": [
+      "Managua"
+    ],
+    "altSpellings": [
+      "NI",
+      "Republic of Nicaragua",
+      "República de Nicaragua"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "translations": {
+      "ara": {
+        "official": "جمهورية نيكاراغوا",
+        "common": "نيكاراغوا"
+      },
+      "bre": {
+        "official": "Republik Nicaragua",
+        "common": "Nicaragua"
+      },
+      "ces": {
+        "official": "Republika Nikaragua",
+        "common": "Nikaragua"
+      },
+      "cym": {
+        "official": "Republic of Nicaragua",
+        "common": "Nicaragua"
+      },
+      "deu": {
+        "official": "Republik Nicaragua",
+        "common": "Nicaragua"
+      },
+      "est": {
+        "official": "Nicaragua Vabariik",
+        "common": "Nicaragua"
+      },
+      "fin": {
+        "official": "Nicaraguan tasavalta",
+        "common": "Nicaragua"
+      },
+      "fra": {
+        "official": "République du Nicaragua",
+        "common": "Nicaragua"
+      },
+      "hrv": {
+        "official": "Republika Nikaragva",
+        "common": "Nikaragva"
+      },
+      "hun": {
+        "official": "Nicaraguai Köztársaság",
+        "common": "Nicaragua"
+      },
+      "ita": {
+        "official": "Repubblica del Nicaragua",
+        "common": "Nicaragua"
+      },
+      "jpn": {
+        "official": "ニカラグア共和国",
+        "common": "ニカラグア"
+      },
+      "kor": {
+        "official": "니카라과 공화국",
+        "common": "니카라과"
+      },
+      "nld": {
+        "official": "Republiek Nicaragua",
+        "common": "Nicaragua"
+      },
+      "per": {
+        "official": "جمهوری نیکاراگوئه",
+        "common": "نیکاراگوئه"
+      },
+      "pol": {
+        "official": "Republika Nikaragui",
+        "common": "Nikaragua"
+      },
+      "por": {
+        "official": "República da Nicarágua",
+        "common": "Nicarágua"
+      },
+      "rus": {
+        "official": "Республика Никарагуа",
+        "common": "Никарагуа"
+      },
+      "slk": {
+        "official": "Nikaragujská republika",
+        "common": "Nikaragua"
+      },
+      "spa": {
+        "official": "República de Nicaragua",
+        "common": "Nicaragua"
+      },
+      "srp": {
+        "official": "Република Никарагва",
+        "common": "Никарагва"
+      },
+      "swe": {
+        "official": "Republiken Nicaragua",
+        "common": "Nicaragua"
+      },
+      "tur": {
+        "official": "Nikaragua Cumhuriyeti",
+        "common": "Nikaragua"
+      },
+      "urd": {
+        "official": "جمہوریہ نکاراگوا",
+        "common": "نکاراگوا"
+      },
+      "zho": {
+        "official": "尼加拉瓜共和国",
+        "common": "尼加拉瓜"
+      }
+    },
+    "latlng": [13, -85],
+    "landlocked": false,
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "area": 130373,
+    "demonyms": {
+      "eng": {
+        "f": "Nicaraguan",
+        "m": "Nicaraguan"
+      },
+      "fra": {
+        "f": "Nicaraguayenne",
+        "m": "Nicaraguayen"
+      }
+    },
+    "flag": "🇳🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+    },
+    "population": 6624554,
+    "gini": {
+      "2014": 46.2
+    },
+    "fifa": "NCA",
+    "car": {
+      "signs": [
+        "NIC"
+      ],
+      "side": "right"
+    },
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ni.png",
+      "svg": "https://flagcdn.com/ni.svg",
+      "alt": "The flag of Nicaragua is composed of three equal horizontal bands of blue, white and blue, with the national coat of arms centered in the white band."
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [12.13, -86.25]
+    },
+    "postalCode": {
+      "format": "###-###-#",
+      "regex": "^(\\d{7})$"
+    }
+  },
+  {
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla",
+      "nativeName": {
+        "eng": {
+          "official": "Anguilla",
+          "common": "Anguilla"
+        }
+      }
+    },
+    "tld": [
+      ".ai"
+    ],
+    "cca2": "AI",
+    "ccn3": "660",
+    "cca3": "AIA",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+      "XCD": {
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    },
+    "idd": {
+      "root": "+1",
+      "suffixes": [
+        "264"
+      ]
+    },
+    "capital": [
+      "The Valley"
+    ],
+    "altSpellings": [
+      "AI"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "translations": {
+      "ara": {
+        "official": "أنغويلا",
+        "common": "أنغويلا"
+      },
+      "bre": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "ces": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "cym": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "deu": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "est": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "fin": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "fra": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "hrv": {
+        "official": "Anguilla",
+        "common": "Angvila"
+      },
+      "hun": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "ita": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "jpn": {
+        "official": "アングィラ",
+        "common": "アンギラ"
+      },
+      "kor": {
+        "official": "앵귈라",
+        "common": "앵귈라"
+      },
+      "nld": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "per": {
+        "official": "آنگویلا",
+        "common": "آنگویلا"
+      },
+      "pol": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "por": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "rus": {
+        "official": "Ангилья",
+        "common": "Ангилья"
+      },
+      "slk": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "spa": {
+        "official": "Anguila",
+        "common": "Anguilla"
+      },
+      "srp": {
+        "official": "Ангвила",
+        "common": "Ангвила"
+      },
+      "swe": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "tur": {
+        "official": "Anguilla",
+        "common": "Anguilla"
+      },
+      "urd": {
+        "official": "اینگویلا",
+        "common": "اینگویلا"
+      },
+      "zho": {
+        "official": "安圭拉",
+        "common": "安圭拉"
+      }
+    },
+    "latlng": [18.25, -63.16666666],
+    "landlocked": false,
+    "area": 91,
+    "demonyms": {
+      "eng": {
+        "f": "Anguillian",
+        "m": "Anguillian"
+      },
+      "fra": {
+        "f": "Anguillane",
+        "m": "Anguillan"
+      }
+    },
+    "flag": "🇦🇮",
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2177161"
+    },
+    "population": 13452,
+    "fifa": "AIA",
+    "car": {
+      "signs": [
+        "GB"
+      ],
+      "side": "left"
+    },
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ai.png",
+      "svg": "https://flagcdn.com/ai.svg"
+    },
+    "coatOfArms": {
+      "png": "https://mainfacts.com/media/images/coats_of_arms/ai.png",
+      "svg": "https://mainfacts.com/media/images/coats_of_arms/ai.svg"
+    },
+    "startOfWeek": "monday",
+    "capitalInfo": {
+      "latlng": [18.22, -63.05]
+    }
+  }

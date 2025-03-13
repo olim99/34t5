@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Details</title>
+    <link rel="stylesheet" href="./stayle.css">
+</head>
+<body>
+    <div id="country-card">
+        <img id="flag" alt="Country Flag">
+        <h2 id="country-name"></h2>
+        <p id="region"></p>
+        <button onclick="goBack()">Back</button>
+    </div>
+
+    <script>
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        document.getElementById('country-name').textContent = getQueryParam('name');
+        document.getElementById('region').textContent = 'Region: ' + getQueryParam('region');
+        document.getElementById('flag').src = decodeURIComponent(getQueryParam('flag'));
+
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+</body>
+</html>
